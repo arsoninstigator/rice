@@ -16,3 +16,6 @@ i'm very particular about customization though, i like things a certain way and 
 ![image](https://github.com/user-attachments/assets/2ebe7974-d5f7-4fe6-aeb7-0bb356680ba8)
 <br><br>
 video demonstration can be found [here](https://cloud-84ilbmvje-hack-club-bot.vercel.app/0rice.mp4)
+
+# credit
+i can't find this now but i followed a step-by-step do-it-yourself reddit r/unix tutorial + it had a link to a few images as well and i picked this one for the wallpaper.
